@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The civil rights and conveniences of episcopacy with the inconvenience of presbytery asserted : as it was delivered in a charge to the grand jury at the general quarter sessions held at Nottingham Apr. 22, 1661 / by Pen. Whalley.</title>
+            <author>Whalley, Penistone.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65573</idno>
+            <idno type="STC">Wing W1534</idno>
+            <idno type="STC">ESTC R27585</idno>
+            <idno type="EEBO-CITATION">09959979</idno>
+            <idno type="OCLC">ocm 09959979</idno>
+            <idno type="VID">44416</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44416)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1370:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The civil rights and conveniences of episcopacy with the inconvenience of presbytery asserted : as it was delivered in a charge to the grand jury at the general quarter sessions held at Nottingham Apr. 22, 1661 / by Pen. Whalley.</title>
+                  <author>Whalley, Penistone.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philemon Stephens,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government.</term>
+               <term>Episcopacy.</term>
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44416:1"/>
+            <p>THE Civil Rights, and Conveniences OF EPISCOPACY: WITH THE Inconvenience OF PRESBYTERY ASSERTED; As it was delivered in a charge to the Grand Jury, at the General Quarter Seſ<g ref="char:EOLhyphen"/>ſions, held at <hi>Nottingham, Apr.</hi> 22. 1661.</p>
+            <p>By <hi>Pen. Whalley</hi>
+               <abbr>Eſq</abbr> one of his <hi>Majeſties</hi> Juſtices of the Peace for the ſaid County.</p>
+            <p>LONDON, Printed for <hi>Philemon Stephens</hi> the Yonger, at the <hi>Kings Armes</hi> over againſt Middle Temple Gate in <hi>Fleet-ſtreet,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:44416:2"/>
+            <head>The civil Rights and Convenience of <hi>EPISCOPACIE,</hi> With the inconvenience of <hi>PRESBYTERIE</hi> Aſſerted.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ad it not been that all the ſeveral Sects of this Nation, who not long ſince breathed nothing but fire and deſtruction againſt each other, have of late been like <hi>Herod</hi> and <hi>Pilate</hi> made friends all in one day; I ſhould not have de<g ref="char:EOLhyphen"/>tained you with any Diſcourſe at this time by way of Preamble; but that conſidered, with the extrava<g ref="char:EOLhyphen"/>gancie of ſome Expreſſions which fell of late from ſome per<g ref="char:EOLhyphen"/>ſons (whoſe Education, in common reaſon might have enti<g ref="char:EOLhyphen"/>tled them to more wit) againſt the Diſcipline of the Church of <hi>England;</hi> I am invited nay compelled, as a Sonne of the Church, to ſay ſome thing in vindication of that which they commonly call the unneceſſarie ſuperfluitie, but others the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Decorum</hi> of the Clergie: wherein I ſhall prove the Rights that they have to thoſe Eminent places of Honour, which they now enjoy, or may pretend to, as ſitting in the
+<pb n="2" facs="tcp:44416:3"/>Houſe of Lords, <hi>&amp;c.</hi> with the Conveniencie and profit which may accrue to us Commoners by their having ſo: I am induced the rather to it, becauſe the time is now at hand, when every man poſſibly may hope to get a toleration, or con<g ref="char:EOLhyphen"/>nivence for his own humor, or fancie, which very many now a dayes miſtake for Conſcience in the exerciſe of Religion<g ref="char:punc">▪</g> and the way for it being thought feaſible by that old one of petitioning the <hi>Parliament,</hi> as it may be by ſome conceived. Now to the end, that you, like your Predeceſſors, ſhould not be gulled in Petitioning for you know not what; I will by Gods help lay down the Legalitie and Conveniene of <hi>Epiſcopacie</hi> with the contraries of <hi>Presbyterie,</hi> (for they are now like to be the only Rivals) and then if you have a mind to Petition, you may know what to Petition for. The Rights then which the Biſhops have both to their Lands and Honours are twofold, by Cuſtome or common Law, and by Statute Law.</p>
+            <p>The Cuſtome under which they claim, is of great Antiqui<g ref="char:EOLhyphen"/>tie, for it bears date almoſt with Chriſtianitie it ſelf; In <hi>Ethel<g ref="char:EOLhyphen"/>berts</hi> time, the firſt Chriſtian King of the <hi>Saxons,</hi> you ſhall find a Convention at <hi>Canterbury</hi> conſiſting of Biſhops and Lords, to ſettle the Affairs of Church and State, and that's above a thouſand years agoe, and look what Priviledge they enjoyed under him, they had under the reſpective <hi>Saxon.</hi> Kings of the Heptrarchie, as ſoon as converted to the Chri<g ref="char:EOLhyphen"/>ſtian Faith, amongſt whom they had the precedencie of the other Lords; for the writ of Summons ran, <hi>Ad Epiſcopos, Prin<g ref="char:EOLhyphen"/>cipes, Proceres, &amp; optimates Regni;</hi> For the Biſhops, Princes, Peers, and other good men of the Realm. And afterwards, when the Arms of the Weſt <hi>Saxon</hi> Kings had ſo prevailed, as happily to reduce <hi>England</hi> to a Monarchie, The Acts of that <hi>Parliament</hi> held at <hi>Kingsbury, pro negotiis Regni,</hi> were confir<g ref="char:EOLhyphen"/>med by the Biſhops, Abbots, and other great men of the Na<g ref="char:EOLhyphen"/>tion; and this hapned, <hi>Regnante</hi> Aethelwolpho <hi>filio</hi> Egberti the firſt Monarch of <hi>England,</hi> who afterwards. <hi>Anno Dom.</hi> 845. called a <hi>Parliament</hi> or Convention of Eſtates at <hi>Wincheſter,</hi> and decreed <hi>Cum conſilio Epiſcoporum &amp; principum ſuorum,</hi> by the
+<pb n="3" facs="tcp:44416:3"/>advice of his Biſhops &amp; Princes unto the Clergie, with ſeve<g ref="char:EOLhyphen"/>ral Temporalities and the Tyths of all mens eſtates, and thoſe free <hi>ad omnibus ſecularibus ſervitiis, nec non regalibus tributis majoribus, &amp; minoribus ſive taxationibus;</hi> from all ſecular Im<g ref="char:EOLhyphen"/>poſitions, and the Kings Taxes both great and ſmall; I choſe to inſtance in this, becauſe you may ſee the right that the Church hath to Tythes; and how it was the intention of the firſt Doners, to free her from all Impoſition and Taxes what<g ref="char:EOLhyphen"/>ſoever, which though the Clergie do not now pretend to, yet more moderation may be uſed for the future in aſſeſſing them then formerly; And this priviledge of ſitting amonſt the Lords, they injoyed without alteration till the Conqueſt, during which time they held their Lands <hi>pura &amp; perpetua Elee<g ref="char:EOLhyphen"/>moſyna,</hi> by <hi>Franck Allmoigne</hi> as the men of the Law term it; But when the <hi>Norman</hi> came, though under him they ſtill in<g ref="char:EOLhyphen"/>joyed their Lands, yet their Tenure was altered from <hi>Franck Almoigne,</hi> to be held <hi>ſub militatari ſervitute,</hi> (as <hi>Matt. Paris</hi> hath it) by Knights ſervice or Baronage, by which they were compellable to furniſh the King towards his Wars, equally with Lay Subjects of the ſame tenure; which though at firſt it lookt like an encroching upon their Priviledges, prov'd an ad<g ref="char:EOLhyphen"/>vantage unto them; for whereas before they ſate amongſt the Lords only <hi>Virtute Officii</hi> as Biſhops, now they had place <hi>En re<g ref="char:EOLhyphen"/>ſpectede lour poſſeſſione l'Autient Baronies annexes a lour dignitie,</hi>
+               <note place="margin">
+                  <hi>Stamf. ple.</hi> V. 3. C. 1.</note> as Barons, and ſo they owned themſelves at the <hi>Parliament</hi> held at <hi>Northampton</hi> in <hi>Henry</hi> the Seconds time, when they ſaid, <hi>non ſedemus bic Epiſcopi nos; Barones, vos Barones, omnes pares hic ſumus;</hi> We do not ſit here as Biſhops, we are Barons, you are the reſt of the Clergie were held, and that juſtly too, the firſt Eſtate of the Realm, and ſo they continued till <hi>Henry</hi> the Thirds time, in whoſe Reign <hi>Magna Charta</hi> was confirmed, which is the firſt of that we call <hi>Statute Law,</hi> under which we claim much of that which we pertend a propertie in; and there you ſhall find thoſe great Priviledges of the Church, amply and fully confirmed; for it runs thus. Firſt we have for
+<pb n="4" facs="tcp:44416:4"/>us and our Heirs confirmed for ever, <hi>That the Church of</hi> England <hi>ſhall be free, and enjoy all her Rights and Liberties in<g ref="char:EOLhyphen"/>violable;</hi> and it follows likewiſe, <hi>All Acts made againſt this by any ſucceeding</hi> Parliament <hi>in time to come ſhall be void to all in<g ref="char:EOLhyphen"/>tents and purpoſes:</hi> and this was confirmed by a ſolemne curſe denounced on all the infringers, by <hi>Boniface</hi> Archbiſhop of <hi>Canterbury,</hi> the prime Peer of the Land. And truly it would not be amiſs, if all the Oppoſers of the reflouriſhing of <hi>Epiſ<g ref="char:EOLhyphen"/>copacie</hi> and others would conſider, whether or no, thoſe occur<g ref="char:EOLhyphen"/>rences which have happened amongſt us ſince that great vi<g ref="char:EOLhyphen"/>olation of <hi>Magna Charta,</hi> the disfranchiſement of the <hi>Clergie,</hi> have not rather reſembled a Curſe, then a Bleſſing.</p>
+            <p>But to return again to the matter in hand; if <hi>Magna Charta</hi> be, as moſt of us are apt to incline to believe, it is, like the Lawes of the <hi>Medes</hi> and <hi>Perſians</hi> unalterable, as to the main, it is ſo in every part; for the Rule muſt hold, <hi>Quicquid in<g ref="char:EOLhyphen"/>corruptibile eſt in toto, incorruptibile eſt in ſingulis partibus;</hi> what's incorruptible in the whole, is likewiſe in every part: But poſſibly a man may receive the ſame anſwer in this parti<g ref="char:EOLhyphen"/>cular, as the King of <hi>Perſia</hi> did in another caſe, who falling into an inceſtuous love, demanded of his Counſel, Whether <hi>there was not a Law, that the Kings of</hi> Perſia <hi>might marrie their own Siſters?</hi> They after ſome advice return this An<g ref="char:EOLhyphen"/>ſwer, <hi>That they could not find a Law tolerating ſuch marriages, yet there was another which permitted the Kings of</hi> Perſia <hi>to doe what they thought fit:</hi> And ſo, though there be no Law that <hi>Magna Charta</hi> ſhould be infringed in the leaſt particle, yet there is a Law or Cuſtome, for <hi>Parliaments</hi> to do what they will; And by a <hi>Parliament</hi> was <hi>Magna Charta,</hi> as farre as con<g ref="char:EOLhyphen"/>cerns the Church, violated; and therefore good and binding: 'Tis true, the Royal aſſent was as a man may ſay extorted to that Bill, whoſe condeſcending to that and ſome other things about that time, to prevent as he hoped (that which it cauſed) a War, together with his ſigning thoſe Sacrilegious deſtructive, &amp; ſelf tottering Propoſitions at the Iſle of <hi>Wight,</hi> made him appear to be a man, and in thoſe things ſubject to
+<pb n="5" facs="tcp:44416:4"/>infirmities. But however this is well enough anſwered out of <hi>Bodinus,</hi> that great Stateſ-man of <hi>France, Nihil</hi> á <hi>duobus or<g ref="char:EOLhyphen"/>dinibus poteſt decerni, quo uni ex tribus incommodum inferatur;</hi> Nothing can be Decreed by two Eſtates, to incommode the third; and that the Lords Spiritual are an Eſtate, I hope will not be denied; when my Lord <hi>Cooke,</hi> that Oracle of the Law affirms it, who in his Chapter of <hi>P.F,</hi> 1. ſayes, <hi>The three Eſtates of the Realm, are the Lords Spiritual, the Lords Tempo<g ref="char:EOLhyphen"/>ral, and the Commons;</hi> and his I think is a ſufficient Autho<g ref="char:EOLhyphen"/>ritie to confute that Frivolous but King-leſsning Tenent, which holds his Majeſtie to be one of the three Eſtates.</p>
+            <p>The next thing to be inquired after, is the advantage that doth, or may accrue to us Commoners by theſe Priviledges of the Church; and they are either in general, or parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>The firſt is very Evident; for if at any time the Lords ſhould attempt to encroach (a thing which poſſibly they may hereafter incline unto to be quit with us) upon the rights of the Commons, the Biſhops are as ſo many Advo<g ref="char:EOLhyphen"/>cates to plead our Cauſe in the upper Houſe, to which their own intereſt muſt enforce them; for as they are generally the ſons of Commoners, and ſo taken from amongſt us; ſo to us they muſt return in their iſſues; and therefore, look what<g ref="char:EOLhyphen"/>ſoever they aſſent unto, which entrenches upon our liber<g ref="char:EOLhyphen"/>ties, is prejudicial to themſelves in their Poſterities and Re<g ref="char:EOLhyphen"/>lations.</p>
+            <p>The next to be treated of, is, that which will be ſure to get acceptation, every mans particular advantage, and that world<g ref="char:EOLhyphen"/>ly too, by the reflouriſhing of the Church; and this is as apparent as the former: For all that Grandeur and ſplendour, thoſe eminent places of Honour and Profit in the Church, are but as ſo many Crowns and Prizes held forth to the encou<g ref="char:EOLhyphen"/>ragement of us, and our Children in the progreſs of Vertue, according to that of <hi>Claudian, Egregios invitant praemia mores.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:44416:5"/>
+And the rather to incite us, the meaneſt perſon in the Na<g ref="char:EOLhyphen"/>tion is in himſelf or poſteritie capable of the higheſt Church preferment, if parts and induſtrie be not wanting; ſo that now we may ſay to our Children as ſoon as they are fit to go from us.</p>
+            <lg>
+               <l>
+                  <hi>Diſce bonas artes, ſanctam cole Relligionem;</hi>
+               </l>
+               <l>
+                  <hi>Sic tibi cum magno ſurget honore decus.</hi>
+               </l>
+               <l>Purſue good Arts, embrace Religion true,</l>
+               <l>So Honours great to thee ſhall ſoon accrue.</l>
+            </lg>
+            <p>For now Heavens be praiſed, the Church hath got ſuch a nurſing Father, as ſhe wants no preferment wherewith to en<g ref="char:EOLhyphen"/>courage her deſerving and obedient ſons. And though all men cannot arrive at the higheſt pitch of Honor; yet, where there is merit, there will never be wanting a ſufficient compenſation. Better too is it for the body of a Nation, when vertue is en<g ref="char:EOLhyphen"/>couraged by rewards, then when Vice is only diſgraced by penalties. For Noble and generous Spirits, are ſooner drawn to the wayes of Vertue by Honourable Requitals, then deter<g ref="char:EOLhyphen"/>red from thoſe of Vice by ignominious puniſhments; And therefore praiſe-worthy is that Inſcription upon the Town Hall of <hi>Zant,</hi> a Citie in an Iſland of the ſame name;</p>
+            <lg>
+               <l>Hic locus odit, amat, pumit, conſervat, honorat,</l>
+               <l>Nequitiam, pacem, crimina, jara, probos.</l>
+            </lg>
+            <p>Here are rewards for Vertue, as well as puniſhments for Vice: Neither is it a new thing for learned Men, to be preferred be<g ref="char:EOLhyphen"/>fore others that are ſuperiour in Birth and Eſtate, if inferiour in that qualification; for which <hi>Sigiſmund</hi> the Emperour gave this Reaſon; Who upon a time being asked by ſome of his heavie-headed attendants, <hi>Why he valued Scholars above them<g ref="char:EOLhyphen"/>ſelves, who were far their ſuperiours both in Honour and riches?</hi> returned this Anſwer: <hi>Se jure illos colere, qui vobis donis tam divinis antecederent;</hi> That he did them nothing but right, be<g ref="char:EOLhyphen"/>cauſe they out went them in gifts ſo Divine: For (ſaith he)
+<pb n="7" facs="tcp:44416:5"/>
+               <hi>Wiſedom and Learning are only the gifts of God, whereas he him<g ref="char:EOLhyphen"/>ſelf could confer honor and riches upon any body;</hi> and of this mind was <hi>Antiſthenes</hi> the Philoſopher when he curſed that Citie, where <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, good and bad, fools and wiſe men, had equal honour.</p>
+            <p>As now I have ſpoke ſomthing of the Rights and Conve<g ref="char:EOLhyphen"/>niencie of <hi>Epiſcopacy,</hi> ſo it remains that I ſhould ſay likewiſe ſomething of the no right and inconveniency of<note n="*" place="margin">By <hi>Preſ<g ref="char:EOLhyphen"/>bytery</hi> muſt be meant the <hi>Scotch,</hi> to ſet up which, the Nation, when they were ſet a madding, Covanan<g ref="char:EOLhyphen"/>ted.</note> 
+               <hi>Presbytery:</hi> But the former it is needleſs to inſiſt on, becauſe having pro<g ref="char:EOLhyphen"/>ved the Rights of the one, the illegalitie of the other is of na<g ref="char:EOLhyphen"/>tural conſequence; therefore the chief bent of my Diſcourſe ſhall be to treat of the inconveniencie that <hi>Presbytery</hi> brings along with it to all ſorts and orders of men; and firſt Ile begin with the King. From him (though a Sacred Perſon) it raviſhes the chiefeſt Jewel of the Crown; the dernier reſort, or laſt ap<g ref="char:EOLhyphen"/>peal of the Subject. For, whereas by the Lawes of <hi>England;</hi> If any man find himſelf aggrieved at any conſiſtorial proceedings of any Biſhop, there lies an Appeal to the King in <hi>Chancery,</hi> who of courſe in thoſe caſes, commiſſionates certain <hi>Delegates,</hi> under the <hi>Great Seal,</hi> who are to inquire, and take <hi>Cognizance</hi> of the matter depending, and accordingly to relieve the Plaintiffe if they ſee occaſion for it. With the <hi>Presbytery</hi> it i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other wayes; for they ſay, in the book of Diſcipline, <hi>From the Kirk is no appel<g ref="char:EOLhyphen"/>lation;</hi> and as this is very prejudicial to the Authoritie of Prin<g ref="char:EOLhyphen"/>ces, ſo is there another paſſage in that book as prejudicial to their perſons; For, <hi>to Diſcipline</hi> (ſay they) <hi>muſt all Eſtates,</hi>
+               <note place="margin">2. Book of <hi>Diſcip.</hi> c. 18.</note> 
+               <hi>and Perſons, as well they that Govern, as they that are governed, be ſub<g ref="char:EOLhyphen"/>ject.</hi> If now the King cannot ſcape <hi>Scot-free,</hi> the Subject muſt not expect to be free from their inſolence. For they ſay, <hi>That for an uncomly geſture, a vain word, ſuſpition of covetouſneſs,</hi>
+               <note place="margin">1 Book of <hi>Diſc.</hi> 7. head.</note> 
+               <hi>Sab<g ref="char:EOLhyphen"/>bath-breaking, keeping a table above a mans rank, and the like;</hi> (and of all this their Reverendſhips muſt be the ſole Judges) <hi>Church cenſures ought to be inflicted;</hi> and though it be granted, they be<g ref="char:EOLhyphen"/>gin firſt with Admonition, yet if there be not a preſent Confor<g ref="char:EOLhyphen"/>mitie to what thoſe ſupercilious Gentlemen will pleaſe to im<g ref="char:EOLhyphen"/>poſe, they proceed presently to excommunication. And as they are oppreſſive in thoſe things that poſſibly may be no faults, ſo
+<pb n="8" facs="tcp:44416:6"/>are they worſe in thoſe that are: For whereas our Law ſayes, <hi>Nemo debet bis puniri pro eodem delicto,</hi> No man ought to be puniſh twice for one offence; They ſay, <hi>Nothing forbids the ſame fault to be puniſht,</hi>
+               <note place="margin">Syn. Theor. <hi>63.</hi>
+               </note> 
+               <hi>one way by the Politique power, another by the Eccleſiaſtical; by one under the formality of a Crime, by cor<g ref="char:EOLhyphen"/>poral or pecuniary puniſhment, by the other under the formality of a ſcandal, with Spiritual Cenſures:</hi> And though ſome may think this harſh, yet are they worſ when they ſay,<note place="margin">1 Book of <hi>Diſcip.</hi> 9. head.</note> 
+               <hi>Parents ſhall looſe the diſpoſal of their Children in marriage if the Child deſire a Husband or Wiſe, and the Parent gainſay it upon the common ground only, of want of guds, or diſparitie, of Birth, then upon the Childs deſire the Miniſter is to travel with the Parent, and after<g ref="char:EOLhyphen"/>wards at his diſcretion admit them to marriage; (for the work of the Lord</hi> (as they ſay) <hi>ought not to be hindred by the corrupt affections of men:</hi> Though this be verie high, yet is their practice much higher; for the <hi>Presbytery</hi> doth ordinarily compel the injured Parent to give the diſobedient Child an equal portion with the reſt of his Children.</p>
+            <p>Thus they encourage and countenance Disobedience and Rebellion, which the Scripture compares to the ſin of <hi>Witch<g ref="char:EOLhyphen"/>craft;</hi> and no marvel then if they, who are ſo great Patrons of Diſobedience towards natural Parents, ſhould be ſuch ſtout, aſſertors of Rebellion againſt Politique. And now Ile tell you what this Excommunication is, to which everie man is liable for ſlighting his Miniſter, though he be never ſo raw a novice; <hi>After the Sentence is pronounced, no Perſon (Wife and Family ex<g ref="char:EOLhyphen"/>cepted) may converſe, eat, drink, buy or ſell with him, without Licence;</hi>
+               <note place="margin">1 Book of <hi>Diſcip.</hi> 7. head.</note> 
+               <hi>Nay the Children that are born afterward, are not to be admitted to Baptiſme, till they be of years to demand it, and then preſently of courſe, Letters of Horning goes out, which is an outlawing by the ſound of a Horn, and putting out of the Lawes protection,</hi>
+               <note place="margin">54. <hi>Artic.</hi> 1.599.</note> 
+               <hi>ſo as any body may kill the Excommunicate perſon that will be at the trouble of it.</hi>
+            </p>
+            <p>But all theſe, ſome may ſay, are but contingent inconveni<g ref="char:EOLhyphen"/>encies, and may be (by a wiſe man) prevented; But now I will ſpeak of ſome other of their brave Tenets, and they are ſuch are very enchroaching upon the properties of all, though
+<pb n="9" facs="tcp:44416:6"/>never ſo wiſe; <hi>All Tythes</hi> (ſay they) <hi>Oblations,</hi>
+               <note place="margin">2 Book <hi>Diſc.</hi> ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Temporalities, of Biſhops, Deans, Sub-Deans, and all Lands belonging to Ca<g ref="char:EOLhyphen"/>thedrall Kirkes, waſ the Patrimony of the Kirke, and ought to be diſpoſed of by the Kirkes appointment:</hi> Then as preventing an Objection, that the preſent Poſſeſſours had Leaſes from the former Proprietours, they goe on and ſay, <hi>The Leaſers were thieves and murderers, and ought not to alienate the common guds of the Kirke.</hi> Thus you ſee what property any man is like to have in his Eſtate, that they are pleaſed to call thieves or mur<g ref="char:EOLhyphen"/>derers; and this is that they would be at in <hi>England,</hi> had they but power according to their will.</p>
+            <p>The commodiouſneſs of one, and the incommodiouſneſs of the other, in ſhort then lies thus; In <hi>Epiſcopacy you have a pub<g ref="char:EOLhyphen"/>lick Revenue ſet forth for the ſupport and encouragement of Learn<g ref="char:EOLhyphen"/>ing and Vertue;</hi> In <hi>Presbytery you have all Learning diſcouraged, becauſe none are capable of preferment, but ſuch who out of the predominancy of Ignorance and folly with ſubmit to thoſe hotheaded, and for the moſt part illeterrate Gentlemen.</hi> And therefore, as no Commoner can be againſt the former, but ſuch as maligns the contingent advantage of his Poſteritie, and other Relations, ſo none can be for the latter, but ſuch who have a mind to de<g ref="char:EOLhyphen"/>liver themſelves and poſteritie up to an inſupportable ſlavery.</p>
+            <p>Now ſeeing that <hi>Presbytery</hi> and <hi>Epiſcopacy</hi> can by no means agree, as being of ſuch different Principles; It will not be a<g ref="char:EOLhyphen"/>miſs therefore, to trie how near we can bring the <hi>Presbyterian</hi> and <hi>Jeſuite</hi> together. Father <hi>Mariana,</hi> in his book <hi>De Rege &amp; Regit Inſtitutione,</hi> ſayes, <hi>That Princes which be excommunicated by the Pope, may lawfully be killed by their Subjects; Mr.</hi> Kant <hi>the</hi> Scotch <hi>Presbyter,</hi> in his book <hi>De Excommunicato trucidando,</hi> de<g ref="char:EOLhyphen"/>livers for Orthodox, <hi>That all perſons who will not take the Co<g ref="char:EOLhyphen"/>venant</hi> (the King not excepted) <hi>ought to be excommunicated, and all perſons ſo excommunicated, ought to he killed.</hi> Thus far they go along prettie well; Father <hi>Eſcobar</hi> a late <hi>Caſuiſt</hi> in that ſocietie, layes down for a rule, <hi>Goods gotten by diſhonourable wayes as Treaſon, Murder, Sacriledge, an unjuſt Sentence,</hi>
+               <note place="margin">
+                  <hi>Miſt.</hi> of <hi>Ieſuitiſm.</hi> Let 8. p. 112.</note> 
+               <hi>are lawfully poſſeſt by him, who hath ſo gotten them; and he is not at all obliged to make reſtitution:</hi> This you will ſay, is damnable do<g ref="char:EOLhyphen"/>ctrine,
+<pb n="10" facs="tcp:44416:7"/>and very ſcandalous to civil as well as Chriſtian ſocietie, yet as bad as it is, it is certainly the Opinion of our jolly Caſuiſts of the Discipline; otherwiſe they (at leaſt the pre<g ref="char:EOLhyphen"/>tenders of <hi>Theologie</hi> amongſt them) would not now rejoyce <hi>in the wages of Iniquitie,</hi> in what they got by plundering and Killing their fellow-Subjects for doing their duties. They would make restitution of what they have received by Seque<g ref="char:EOLhyphen"/>ſtring of honeſt mens Livings: They would tender ſatisfaction for the injuries they have done by expoſing the Wife &amp; Chil<g ref="char:EOLhyphen"/>dren of the Loyal Clergie to a neceſſarie povertie: And that facultie of plundering of Livings was ſo Epidemical amongſt them, that a man may without breach of Charitie, ſay, They would all have been guiltie of it, had they but had oppor<g ref="char:EOLhyphen"/>tunitie.</p>
+            <p>The <hi>Jeſuites,</hi>
+               <note place="margin">Miſt. of <hi>Ieſuit.</hi>
+               </note> who are generally obſerved to be very ſtrict Obſervers of Diſcipline, eſpecially in that part which con<g ref="char:EOLhyphen"/>cerns their habit,<note place="margin">Miſt. of <hi>Ieſuit. let.</hi> 6. <hi>p.</hi> 70</note> ſay, <hi>No man ought upon pain of Excommuni<g ref="char:EOLhyphen"/>cation to lay aſide his habite, except it be, Furandi vel Scortandi gratia, to whore or to thieve:</hi> So our Gentlemen, thoſe great Judaizers of the Sabbath, in which they differ from all the Churches of Chriſt in the world, certainly hold that the Sab<g ref="char:EOLhyphen"/>bath is not to be broke, except it be to plunder or kill; elſe they would never have made an onſet upon the Kings Armie at <hi>Edgehill</hi> on a Sunday.<note place="margin">Miſt. of <hi>Ieſuit. Let.</hi> 5.</note> And as the <hi>Jeſuite</hi> Doctrine of Proba<g ref="char:EOLhyphen"/>bilitie is juſtly counted the Viper and bane of <hi>Moralitie;</hi> ſo <hi>the Diſciplinarian Doctrine of Predeſtination, reduced into pra<g ref="char:EOLhyphen"/>ctice it of as ill if not worſer conſequence.</hi> But perhaps ſome may ſay, that all this might have been ſpared, considering how inſtrumental of late the <hi>Presbyterians</hi> have been in re<g ref="char:EOLhyphen"/>ſtoring of us to our Peace: Its granted that many of thoſe who formerly were of that judgement, have of late been very ſignally eminent for Loyaltie, which is a convincing Ar<g ref="char:EOLhyphen"/>gument of their repentance: For men poſſibly may repent of <hi>Presbyterie,</hi> but <hi>Presbyters</hi> never yet repented of any thing.</p>
+            <p>Now for ſatisfaction howere of thoſe who as <hi>Presbyterians</hi> did Contribute to His Majefties Return, I ſhall inſert a Sto<g ref="char:EOLhyphen"/>rie
+<pb n="11" facs="tcp:44416:7"/>out of the <hi>Chronicles</hi> of <hi>Scotland,</hi>
+               <note place="margin">
+                  <hi>Spotswood</hi> his hiſtory of <hi>Scot.</hi>
+               </note> which will be pertinent enough to the purpoſe; During the Eighteen years Impri<g ref="char:EOLhyphen"/>ſonment of <hi>James</hi> the Firſt, here in <hi>England;</hi> The govern<g ref="char:EOLhyphen"/>ment of that Kingdome fell to <hi>Murdake</hi> Earle of <hi>Fife,</hi> by whoſe means it was not improbable, the King was ſo long detained.</p>
+            <p>
+               <hi>This Earle of</hi> Fife <hi>had in that while two ſons that grew up to be ſo boyſterous and wicked, as neither the Father nor any body elſe could rule them; who thereupon told them, that ſince they would not be directed and governed by him, he would ſend for one who ſhould rule both him and them; And immediately ſends a<g ref="char:EOLhyphen"/>way for the King, who upon his return ſummons a</hi> Parliament, <hi>in which</hi> Murdake <hi>and his two ſons were condemned for Treaſon, and accordingly executed.</hi>
+            </p>
+            <p>The Application is very obvious, <hi>Independencie</hi> and <hi>Ana<g ref="char:EOLhyphen"/>baptiſme,</hi> the two ungracious ſons of <hi>Presbytery,</hi> in the Kings abſence, occaſioned by <hi>Presbytery,</hi> grew to ſuch an height of Stubbornneſſe and Rebellion, as inſteed of being ruled, they oft attempted to murder and deſtroy their common Parents, who induced by the certaintie of being ruined by them, ſent for the King to come home, and rule them all; whoſe mercie is ſuch, as that he will not apply as to perſons, yet ſuch is his Wiſedome, that he will, if he Conſult (which I am ſure he does) his own Safetie, and our Peace, make a home Appli<g ref="char:EOLhyphen"/>cation as to things. But now leſt my Diſcourſe ſhould be too prolixe, a thing to be avoided in Sermons themſelves, I ſhall direct you, (Gentlemen) in diſcharge of the Dutie as to the buſineſs in hand, and that ſhall <hi>be</hi> onely in putting you in minde of your Oath, part of which is to enquire and preſent whats given in charge; You are to enquire after all Treaſons, Petti-Treafon, <hi>&amp;c.</hi> It's High Treaſon to compaſs or ima<g ref="char:EOLhyphen"/>gine the death of the King, the Queen his Wife, or of their eldeſt Son and Heir.</p>
+            <p>And though the Nation be not yet ſo happie as they will be when his Majeſtie rejoyces in thoſe endearing Relations; yet by this you may ſee, that this Statute was made chiefly
+<pb n="12" facs="tcp:44416:8"/>to preſerve the Perſon of the King; for it's the Perſonall, not the Politique Capacitie that never dies, if a King can be ſaid to have either Wife or Children.</p>
+            <p>Its High Treaſon likewiſe, if Maſter Saint <hi>John</hi> the late Kings Solicitour be to be believed, in his Argument at Law (againſt the Earle of <hi>Strafford</hi>) <hi>for to alter the Religion Eſta<g ref="char:EOLhyphen"/>bliſht;</hi> and this the Covenanters were ſworn to, when they Covenanted againſt the Hierarchie, and Diſcipline of our Church; For believe it, Diſcipline and Ceremonies are as neceſſarie for the preſerving of Religion in its Pri<g ref="char:EOLhyphen"/>mitive Puritie, as the skin or rinde of an Apple, (which of it ſelf is inſipid, and of little worth) it is to preſerve the Fruit from putrefaction.</p>
+            <p>To impoſe Oaths likewiſe, or perſwade Forraigners to le<g ref="char:EOLhyphen"/>vell Warre within this Kingdome, according to Maſter Saint <hi>John,</hi> and Maſter <hi>Pym,</hi> is High Treaſon; and their Autho<g ref="char:EOLhyphen"/>thoritie may be ſufficient, as <hi>Argumentum ad Homines;</hi> I inſiſt the rather, becauſe the Covenanters may ſee how farre they are from being Obliged by the Covenant, (the impoſing of which, being High Treaſon by, then, Presby<g ref="char:EOLhyphen"/>terian Authorities) that they are Obliged by the Lawes both of God and Man to the quite contrarie, according to the Rule, <hi>In malis promiſsis reſcinde fidem, in turpi voto mu<g ref="char:EOLhyphen"/>ta decretum.</hi> You are to preſent all Miniſters, as well Be<g ref="char:EOLhyphen"/>neficed as others, that do not constantly upon every Sun<g ref="char:EOLhyphen"/>day, or other Opportunitie of Religious Worſhip, reade the Liturgie of the Church eſtabliſhed by Law, commonly called <hi>The Common Prayer.</hi> In Vindication of which, If I ſay ſomething more then properly belongs to this place, The Orthodox Divine, (and for the other I care not) I hope will grant an Indulgence.</p>
+            <p>The main Objection then againſt Biſhops, is againſt our Li<g ref="char:EOLhyphen"/>turgie in general, <hi>Viz.</hi> That it is a Form; and (as the Infor<g ref="char:EOLhyphen"/>mation from <hi>Scotland</hi> ſayes) <hi>It is not lawfull for a man to tie himſelf up, or be tied up by others to a perſcript Forme, either in Prayer or Exhortation;</hi> To which may be thus An<g ref="char:EOLhyphen"/>ſwered;
+<pb n="13" facs="tcp:44416:8"/>
+               <hi>When people meet together to worſhip God in pub<g ref="char:EOLhyphen"/>lique, it is not to be expected that all ſhould pray at once ac<g ref="char:EOLhyphen"/>cording to their particular Fancie, (which as it cannot pleaſe him who is ſtiled the God of Order, ſo indeed is no where pra<g ref="char:EOLhyphen"/>ctiſed) but that the Miniſter in behalf of himſelf, and the peo<g ref="char:EOLhyphen"/>ple, ſhould put up his requeſts to Heaven.</hi> Well then; That Prayer, in ſpeaking of which, the Miniſter is not tied up to a perſcript Form, doth not ceaſe though from being a Forme to the Congregation; For every man who joynes with the Miniſter, (or if he doe not, what does he there?) is as much tied up from dilating himſelf by occasional Medi<g ref="char:EOLhyphen"/>tations, as if all had been read out of a Booke; and yet one of theſe is acceptable, the other as the abominations of the Heathen is accounted. The Caſe then is juſt thus: One of yon purchaſes a piece of Land of his Neighbour, and in Order to the making good of his Title gets the advice of the moſt judicious and ableſt Lawyers of the Land, in drawing the Conveyance; which done, he thinks himſelfe in a prettie ſafe Condition as to that: At laſt meets with a bad fellow, One that uſes to make motions in any Court that will hear him, for ten groates, or a dinner, who tells him he hath taken a great deal of pains to no purpoſe; for he can make a better Conveyance <hi>Extempore.</hi> If now the Purchaſer ſhould in this Caſe be ore-ruled by that ſmall man of the Law, you would think as I ſuppoſe, he deſer<g ref="char:EOLhyphen"/>ved to be begged for a Fool; and yet the Caſe is directly the ſame: For that Form eſtabliſlit by Law, approved by all the beſt Reformed Churches abroad, Compiled by the ad<g ref="char:EOLhyphen"/>vice of all the pious, ſober and Learned men of that Age, Sealed with the Blood of ſo many Reverend Prelates, and by all agreed on to be that acceptableſt way of Worſhiping, God, muſt now be rejected for the <hi>Extempore</hi> Form of every ſaucy idle-headed <hi>Jack</hi> in a Pulpit.</p>
+            <p>You are likewiſe to enquire of all perſons that have wittingly heard, or been preſent at any other Form of Common Prayer, Adminiſtration of Sacraments, making of
+<pb n="14" facs="tcp:44416:9"/>Miniſters, or other Rites then what are expreſſed in the ſaid Book, or which are contrary to the Statute of 2. and 3. <hi>E.</hi> 6.1. And truly, if you would but doe your du<g ref="char:EOLhyphen"/>tie in this particular the penaltie is ſo great, that the Au<g ref="char:EOLhyphen"/>ditours of Unlicent Lecturers would not be ſo numerous as formerly, neither would the unconforming Preachers, <hi>[Theſe Diſturbers of the Peace]</hi> have any incouragement any longer to oppoſe for they would ſoon be weary of Preaching to ſtone walls; To which improbabilitie, they muſt be neceſſitated, if this Statute was put in due Exe<g ref="char:EOLhyphen"/>cution. You are likewiſe to inquire, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
